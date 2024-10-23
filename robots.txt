@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://blog.sarkar.day/sitemap_index.xml
